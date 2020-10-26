@@ -1,0 +1,140 @@
+#EXTM3U
+############################CANAIS ESPORTIVOS#################################
+#EXTINF:0 group-title="CANAIS ESPORTIVOS" tvg-logo="https://i.imgur.com/dPvIzlw.png",BAND SPORTS
+http://evpp.mm.uol.com.br:1935/geob_band/bandsports/playlist.m3u8?
+#EXTINF:0 group-title="CANAIS ESPORTIVOS" tvg-logo="https://i.imgur.com/dPvIzlw.png",BAND SPORTS
+https://evpp.mm.uol.com.br/geob_band/bandsports/chunklist_w1624254750.m3u8?
+#EXTINF:0 group-title="CANAIS ESPORTIVOS" tvg-logo="https://i.imgur.com/dPvIzlw.png",BAND SPORTS
+https://evpp.mm.uol.com.br/geob_band/bandsports/chunklist_w1624254750.m3u8?
+#EXTINF:0 group-title="CANAIS ESPORTIVOS" tvg-logo="https://i.imgur.com/5M4gEkF.png",ESPN Brasil
+http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_360_av-b.m3u8?
+#EXTINF:0 group-title="CANAIS ESPORTIVOS" tvg-logo="https://i.imgur.com/5M4gEkF.png",ESPN Brasil HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8?
+#EXTINF:0 group-title="CANAIS ESPORTIVOS" tvg-logo="https://i.imgur.com/5M4gEkF.png",ESPN
+http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_360_av-b.m3u8?
+#EXTINF:0 group-title="CANAIS ESPORTIVOS" tvg-logo="https://i.imgur.com/5M4gEkF.png",ESPN HD
+http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?
+#EXTINF:0 group-title="CANAIS ESPORTIVOS" tvg-logo="https://i.imgur.com/5M4gEkF.png",ESPN (2)
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?
+#EXTINF:0 group-title="CANAIS ESPORTIVOS" tvg-logo="https://i.imgur.com/5M4gEkF.png",ESPN 2 (2)
+https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?
+#EXTINF:0 group-title="CANAIS ESPORTIVOS" tvg-logo="https://i.imgur.com/5M4gEkF.png",ESPN 2
+http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_360_av-b.m3u8?
+#EXTINF:0 group-title="CANAIS ESPORTIVOS" tvg-logo="https://i.imgur.com/5M4gEkF.png",ESPN 2 HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?
+#EXTINF:0 group-title="CANAIS AMERICANOS" tvg-logo="https://i.imgur.com/Anlb1SP.png",United States: FOX Sport HD 1
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?
+#EXTINF:0 tvg-logo="https://i.imgur.com/R8qQGoZ.png" group-title="CANAIS TEMPORÁRIOS", PREMIER 3
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?
+#EXTINF:0 tvg-logo="https://i.imgur.com/R8qQGoZ.png" group-title="CANAIS TEMPORÁRIOS", PREMIER 5
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?
+#EXTINF:0 tvg-logo="https://i.imgur.com/R8qQGoZ.png" group-title="CANAIS TEMPORÁRIOS", PREMIER4
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?
+
+#EXTINF:0 group-title="CANAIS INFANTIL" tvg-logo="https://i.imgur.com/l8BsL4I.png",Cartoon Network HD
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?
+#EXTINF:0 group-title="CANAIS INFANTIL" tvg-logo="http://i.imgur.com/ETxffjm.png",Disney Channel
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_360_av-b.m3u8?
+#EXTINF:0 group-title="CANAIS INFANTIL" tvg-logo="http://i.imgur.com/ETxffjm.png",Disney Channel HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8?
+#EXTINF:0 group-title="CANAIS INFANTIL" tvg-logo="http://i.imgur.com/H9AY5z4.png",Disney Junior
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_360_av-b.m3u8?
+#EXTINF:0 group-title="CANAIS INFANTIL" tvg-logo="http://i.imgur.com/H9AY5z4.png",Disney Junior HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8?
+#EXTINF:0 group-title="CANAIS INFANTIL" tvg-logo="http://i.imgur.com/zNNIALN.png",Disney XD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_360_av-b.m3u8?
+
+############################CANAIS DE FILMES E SÉRIES#################################
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS" tvg-logo="https://i.imgur.com/R8qQGoZ.png",A&E HD
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?
+#EXTINF:0 tvg-logo="https://i.imgur.com/R8qQGoZ.png" group-title="CANAIS TEMPORÁRIOS NOVOS",A&E
+http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/5673?
+#EXTINF:0 tvg-logo="https://i.imgur.com/R8qQGoZ.png" group-title="CANAIS TEMPORÁRIOS NOVOS",A&E HD 
+http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110276?
+#EXTINF:0 tvg-logo="https://i.imgur.com/R8qQGoZ.png" group-title="CANAIS TEMPORÁRIOS NOVOS",AMC
+http://ingrid.ltd:25461/Melon3175/Melon7531/41358?
+#EXTINF:0 tvg-logo="https://i.imgur.com/R8qQGoZ.png" group-title="CANAIS TEMPORÁRIOS NOVOS",AMC HD
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?
+#EXTINF:0 tvg-logo="https://i.imgur.com/R8qQGoZ.png" group-title="CANAIS TEMPORÁRIOS 2", Arte 1 HD
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?
+#EXTINF:0 tvg-logo="https://i.imgur.com/R8qQGoZ.png" group-title="CANAIS TEMPORÁRIOS 2", Arte 1 SD
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?
+#EXTINF:0 tvg-logo="https://i.imgur.com/R8qQGoZ.png" group-title="CANAIS TEMPORÁRIOS 2", AXN HD
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?
+#EXTINF:0 tvg-logo="https://i.imgur.com/R8qQGoZ.png" group-title="CANAIS TEMPORÁRIOS 2", AXN SD
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?
+#EXTINF:0 tvg-logo="https://i.imgur.com/R8qQGoZ.png" group-title="CANAIS TEMPORÁRIOS 2", Canal Sony HD
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?
+#EXTINF:0 tvg-logo="https://i.imgur.com/R8qQGoZ.png" group-title="CANAIS TEMPORÁRIOS 2", Canal Sony SD
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Cinemax HD
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?
+#EXTINF:0 group-title="CANAIS TEMPORÁRIOS" tvg-logo="https://i.imgur.com/R8qQGoZ.png",Cinemax SD
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?
+#EXTINF:0 tvg-logo="https://i.imgur.com/R8qQGoZ.png" group-title="CANAIS TEMPORÁRIOS 3", HBO 2 HD
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?
+#EXTINF:0 tvg-logo="https://i.imgur.com/R8qQGoZ.png" group-title="CANAIS TEMPORÁRIOS 3", HBO 2 SD
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?
+#EXTINF:0 tvg-logo="https://i.imgur.com/R8qQGoZ.png" group-title="CANAIS TEMPORÁRIOS 3", HBO Family HD
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?
+#EXTINF:0 tvg-logo="https://i.imgur.com/R8qQGoZ.png" group-title="CANAIS TEMPORÁRIOS 3", HBO Family SD
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?
+#EXTINF:0 tvg-logo="https://i.imgur.com/R8qQGoZ.png" group-title="CANAIS TEMPORÁRIOS 3", HBO HD
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?
+#EXTINF:0 tvg-logo="https://i.imgur.com/R8qQGoZ.png" group-title="CANAIS TEMPORÁRIOS 3", HBO Mundi HD
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?
+#EXTINF:0 tvg-logo="https://i.imgur.com/R8qQGoZ.png" group-title="CANAIS TEMPORÁRIOS 3", HBO Mundi SD
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?
+#EXTINF:0 tvg-logo="https://i.imgur.com/R8qQGoZ.png" group-title="CANAIS TEMPORÁRIOS 3", HBO Plus HD
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?
+#EXTINF:0 tvg-logo="https://i.imgur.com/R8qQGoZ.png" group-title="CANAIS TEMPORÁRIOS 3", HBO Plus SD
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?
+#EXTINF:0 tvg-logo="https://i.imgur.com/R8qQGoZ.png" group-title="CANAIS TEMPORÁRIOS 3", HBO Plus*e HD
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?IMDSFULL
+#EXTINF:0 tvg-logo="https://i.imgur.com/R8qQGoZ.png" group-title="CANAIS TEMPORÁRIOS 3", HBO Plus*e SD
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?
+#EXTINF:0 tvg-logo="https://i.imgur.com/R8qQGoZ.png" group-title="CANAIS TEMPORÁRIOS 3", HBO Pop HD
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?
+#EXTINF:0 tvg-logo="https://i.imgur.com/R8qQGoZ.png" group-title="CANAIS TEMPORÁRIOS 3", HBO Pop SD
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?
+#EXTINF:0 tvg-logo="https://i.imgur.com/R8qQGoZ.png" group-title="CANAIS TEMPORÁRIOS 3", HBO SD
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?
+#EXTINF:0 tvg-logo="https://i.imgur.com/R8qQGoZ.png" group-title="CANAIS TEMPORÁRIOS 3", HBO Signature HD
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?
+#EXTINF:0 tvg-logo="https://i.imgur.com/R8qQGoZ.png" group-title="CANAIS TEMPORÁRIOS 3", HBO Signature SD
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?
+#EXTINF:0 tvg-logo="https://i.imgur.com/R8qQGoZ.png" group-title="CANAIS TEMPORÁRIOS 3", HBO Xtreme HD
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?
+#EXTINF:0 group-title="FILMES E SÉRIES" tvg-logo="http://i.imgur.com/PY0n9bX.jpg",CINE+
+https://peertube.co.uk/static/webseed/10a97c2b-84db-41af-91c4-738a5a16b42d-640.mp4?
+#EXTINF:0 group-title="FILMES E SÉRIES" tvg-logo="http://i.imgur.com/VDmvAb5.png",Cine Sky
+https://peertube.co.uk/static/webseed/10a97c2b-84db-41af-91c4-738a5a16b42d-640.mp4?
+#EXTINF:0 group-title="FILMES E SÉRIES",CINE 24 HORAS
+https://peertube.co.uk/static/webseed/10a97c2b-84db-41af-91c4-738a5a16b42d-640.mp4?
+#EXTINF:0 group-title="FILMES E SÉRIES" tvg-logo="https://i.imgur.com/2wgmDnN.jpg",FX 
+https://peertube.co.uk/static/webseed/10a97c2b-84db-41af-91c4-738a5a16b42d-640.mp4?
+#EXTINF:0 tvg-logo="https://i.imgur.com/R8qQGoZ.png" group-title="CANAIS TEMPORÁRIOS", SYFY
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?
+#EXTINF:0 group-title="FILMES E SÉRIES" tvg-logo="https://i.imgur.com/y8VnkVo.png",Telecine Action HD
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?
+#EXTINF:0 group-title="FILMES E SÉRIES" tvg-logo="https://i.imgur.com/y8VnkVo.png",Telecine Action SD
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?
+#EXTINF:0 group-title="FILMES E SÉRIES" tvg-logo="https://i.imgur.com/Knj9M5l.png",Telecine Cult HD
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?
+#EXTINF:0 group-title="FILMES E SÉRIES" tvg-logo="https://i.imgur.com/Knj9M5l.png",Telecine Cult SD
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?
+#EXTINF:0 group-title="FILMES E SÉRIES" tvg-logo="https://i.imgur.com/twAwRX6.png",Telecine Fun HD
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?
+#EXTINF:0 group-title="FILMES E SÉRIES" tvg-logo="https://i.imgur.com/twAwRX6.png",Telecine Fun SD
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?
+#EXTINF:0 group-title="FILMES E SÉRIES" tvg-logo="https://i.imgur.com/aoCkxLQ.png",Telecine Pipoca SD
+https://peertube.co.uk/static/webseed/2d73a338-9811-4bef-a79e-c2be8ade1a32-720.mp4?
+#EXTINF:0 group-title="FILMES E SÉRIES" tvg-logo="https://i.imgur.com/gHlj5IK.png",Telecine Touch HD
+https://peertube.co.uk/static/webseed/10a97c2b-84db-41af-91c4-738a5a16b42d-640.mp4?
+
+
+
+
+
+
+
